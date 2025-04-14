@@ -14,7 +14,7 @@
 
 ## Online Resources
 
-Websites like oefenen.nl (https://oefenen.nl) and DutchGrammar.com (https://dutchgrammer.com) offered valuable practice exercises and explanations for various grammar and vocabulary topics.
+Websites like [oefenen.nl] (https://oefenen.nl) and [DutchGrammar.com] (https://dutchgrammer.com) offered valuable practice exercises and explanations for various grammar and vocabulary topics.
 
 ### Vocabulary & Grammar Resources
 - [Quizlet A2 Dutch Vocabulary Sets](https://quizlet.com/subject/dutch-a2/)
