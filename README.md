@@ -11,7 +11,51 @@ KNM (Knowledge of Dutch Society)
 Online Resources:
 Websites like oefenen.nl and DutchGrammar.com offered valuable practice exercises and explanations for various grammar and vocabulary topics. 
 
-Links:
+1. Vocabulary & Grammar Resources
+	•	Quizlet A2 Dutch Vocabulary Sets
+https://quizlet.com/subject/dutch-a2/
+	•	Duolingo (Basic Dutch grammar & vocabulary)
+https://www.duolingo.com/
+	•	Beter Spellen (Dutch spelling and grammar practice)
+https://www.beterspellen.nl/
+
+2. Speaking & Listening Practice
+	•	Taal Oefenen - Spreken (Speaking Practice)
+https://www.taal-oefenen.nl/nt2/spreken-a2
+	•	NT2 Taalmenu (Listening practice)
+https://nt2taalmenu.nl/
+	•	Jeugdjournaal (Dutch news for beginners)
+https://jeugdjournaal.nl/
+
+3. Inburgering Practice Tests
+	•	Oefenen.nl (Practice tests for all skills)
+https://www.oefenen.nl/
+	•	Inburgeren.nl (Mock tests and study materials)
+https://www.inburgeren.nl/
+	•	Taal-Oefenen.nl (Multiple practice resources for reading, listening, etc.)
+https://www.taal-oefenen.nl/
+
+4. KNM Resources (Knowledge of Dutch Society)
+	•	KNM Practice Questions (Practice for social knowledge questions)
+https://www.inburgeren.nl/examenonderdelen/knm.jsp
+	•	Kennis van de Nederlandse Maatschappij Flashcards
+https://quizlet.com/ (Search for “KNM Dutch society” or “Kennis van de Nederlandse Maatschappij”)
+
+5. Pronunciation Practice
+	•	NL Beginners Podcast (Dutch pronunciation practice)
+https://open.spotify.com/show/1j2Wj8RQQe8HUd7lvAeU2X
+	•	Taalstudio - Dutch Pronunciation for Beginners
+https://www.taalstudio.nl/
+
+6. General Dutch Learning Websites
+	•	NT2 Taalmenu (NT2 Dutch language menu)
+https://nt2taalmenu.nl/
+	•	Buitenlanders in Nederland (General Dutch info for foreigners)
+https://www.buitenlandersinnederland.nl/
+
+
+
+Additional Links:
  
 List of flashcard links, podcasts, and other helpful resources that can help for the A2 Inburgering exam preparation:
 
