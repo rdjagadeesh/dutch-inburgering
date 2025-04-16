@@ -1,3 +1,14 @@
+# Disclaimer:
+  - I DO NOT own any of the below contents. I do not hold any responsibility for the contents shared here
+  - It is just for an educational purpose and I am not the owner of the resources
+
+# Professional advise: 
+  - If you need a professional help then I recommend the below ( most of the listed resources are from them )
+  - Adappel - https://www.adappel.nl/
+  - inburgeringOnline.nl - https://www.inburgeringonline.nl/en
+  - Learn Dutch with Bart de pau - https://www.learndutch.org/
+  - (FREE) Learn Dutch with Bart de pay youtube series: https://www.youtube.com/channel/UC2IYiaH8iDXjJHblQIYPAyw 
+
 ## 1. Flashcard Links (Vocabulary Practice)
 - Quizlet Dutch A2 Vocabulary
 https://quizlet.com/subject/dutch-a2/
